@@ -10,7 +10,7 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "SensAI - AI Career Coach",
+  title: "ForgeResume - AI Career Coach",
   description: "",
 };
 

@@ -35,20 +35,14 @@ const HeroSection = () => {
             <br />
             Professional Success
           </h1>
-          <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
-            Advance your career with personalized guidance, interview prep, and
-            AI-powered tools for job success.
+          <p className="mx-auto max-w-[780px] text-muted-foreground md:text-xl">
+            Empowering professionals with tailored career insights, AI driven interview prep and modern job application tools
           </p>
         </div>
         <div className="flex justify-center space-x-4">
           <Link href="/dashboard">
             <Button size="lg" className="px-8">
               Get Started
-            </Button>
-          </Link>
-          <Link href="https://www.youtube.com/@codebubble754">
-            <Button size="lg" variant="outline" className="px-8">
-              Watch Demo
             </Button>
           </Link>
         </div>
